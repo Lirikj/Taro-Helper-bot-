@@ -22,11 +22,13 @@
 ```bash
 git clone https://github.com/username/tarot-helper-bot.git
 cd tarot-helper-bot
+```
 
 2. Установите зависимости 
 
 ```bash 
 pip install pyTelegramBotAPI azure-ai-inference
+```
 
 3. Настройте .env файл
 
@@ -38,6 +40,7 @@ DEVELOPER=123456789
 
 ```bash 
 python main.py
+```
 
 
 
