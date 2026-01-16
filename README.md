@@ -32,9 +32,11 @@ pip install pyTelegramBotAPI azure-ai-inference
 
 3. Настройте .env файл
 
+```
 BOT_TOKEN=your_telegram_bot_token_here
 API_KEY=your_api_key_here
 DEVELOPER=123456789
+```
 
 4. 
 
